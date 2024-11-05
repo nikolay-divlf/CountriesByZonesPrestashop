@@ -60,7 +60,7 @@ $zones = [
 ];
 foreach ($zones as &$zone) {
     /** @noinspection PhpIncludeInspection */
-    $country_file['countries'] = include(__DIR__ . '/' . $zone['file']);
+    $zone['countries'] = include(__DIR__ . '/' . $zone['file']);
 }
 unset($zone);
 return $zones;
