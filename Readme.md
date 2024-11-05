@@ -1,5 +1,9 @@
 # Countries by Zones in Prestashop
 (RU: Страны по зонам в Prestashop)
+
+This is good for the case when zones in prestashop will change. For such a case, you can drag a ready-made list into the code. \
+(RU: Это хорошо подойдет для случая, когда будут изменяться зоны в prestashop. Для такого случая можно брыть готовый список в код.)
+
 ### I will provide a ready list in php format: #
 (RU: Я предоставлю готовый список в формате php)
 
