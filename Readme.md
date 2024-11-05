@@ -5,14 +5,14 @@
 
 | Zone                    | Countries
 | ----------------------- | --------------------------
-| Europe                  | countries/europe.php
-| North America           | countries/north_america.php
-| Asia                    | countries/asia.php
-| Africa                  | countries/africa.php
-| Oceania                 | countries/oceania.php
-| South America           | countries/south_america.php
-| Europe (non-EU)         | ountries/europe_non_EU.php
-| Central America/Antilla | countries/central_america_antilla.php
+| Europe                  | countries_by_zone/europe.php
+| North America           | countries_by_zone/north_america.php
+| Asia                    | countries_by_zone/asia.php
+| Africa                  | countries_by_zone/africa.php
+| Oceania                 | countries_by_zone/oceania.php
+| South America           | countries_by_zone/south_america.php
+| Europe (non-EU)         | countries_by_zone/europe_non_EU.php
+| Central America/Antilla | countries_by_zone/central_america_antilla.php
 
 ### Short list: #
 
@@ -48,7 +48,7 @@
 | Sweden           | SE        | +46
 | United Kingdom   | GB        | +44
 
-<br>
+___
 
 ***North America:***
 | Name                     | Iso code  | Call prefix
@@ -64,7 +64,7 @@
 | Virgin Islands (British) | VG        | -
 | Virgin Islands (U.S.)    | VI        | -
 
-<br>
+___
 
 ***Asia:***
 | Name                    | Iso code  | Call prefix
@@ -121,7 +121,7 @@
 | Vietnam                 | VN        | +84
 | Yemen                   | YE        | +967
 
-<br>
+___
 
 ***Africa:***
 | Name                        | Iso code  | Call prefix
@@ -183,7 +183,7 @@
 | Zambia                      | ZM        | +260
 | Zimbabwe                    | ZW        | +263
 
-<br>
+___
 
 ***Oceania:***
 | Name                               | Iso code  | Call prefix
@@ -218,7 +218,7 @@
 | Vanuatu                            | VU        | +678
 | Wallis and Futuna                  | WF        | +681
 
-<br>
+___
 
 ***South America:***
 | Name                 | Iso code  | Call prefix
@@ -237,7 +237,7 @@
 | Uruguay              | UY        | +598
 | Venezuela            | VE        | +58
 
-<br>
+___
 
 ***Europe (non-EU)**
 | Name                    | Iso code  | Call prefix
@@ -269,7 +269,7 @@
 | Ukraine                 | UA        | +380
 | Vatican City State      | VA        | +379
 
-<br>
+___
 
 ***Central America/Antilla***
 | Name                                          | Iso code  | Call prefix
